@@ -13,7 +13,7 @@ import { Types } from 'aws-sdk/clients/s3';
 
 // const XAWS = AWSXRay.captureAWS(AWS)
 
-const logger = createLogger('TodosAcceconst s3BucketName = process.env.S3_BUCKET_NAME;ss')
+const logger = createLogger('DynamoDB')
 
 // TODO: Implement the dataLayer logic
 
